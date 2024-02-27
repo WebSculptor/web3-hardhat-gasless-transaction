@@ -3,7 +3,7 @@
 SO help me God 🙏
 
 ```shell
-Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
-SocialMediaPlatform address: 0x5FbDB2315678afecb367f032d93F642f64180aa3
-SocialMediaPlatformFactory address: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+Deploying contracts with the account: 0xB6B0746f8137Db1E788597CFcD818e2B3bfF6324
+SocialMediaPlatform address: 0xD825d6a4DC58bbc1278d09B0bA8Fca3D889afAAB
+SocialMediaPlatformFactory address: 0xE049df59A8e7B7255344A97AdA256406A9D2EB32
 ```
