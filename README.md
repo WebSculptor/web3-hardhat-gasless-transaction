@@ -1,6 +1,6 @@
-# So help me God
+# Omo, this thing no funny 😰
 
-Omo, this thing no funny 😰
+SO help me God 🙏
 
 ```shell
 Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
