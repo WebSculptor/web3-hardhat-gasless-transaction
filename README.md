@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# So help me God
 
 Omo, this thing no funny 😰
 
